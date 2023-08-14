@@ -1,4 +1,4 @@
-### Hi, I'm Laura <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+## Hi, I'm Laura <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 
 I am a web developer with an innate love for constant learning and creativity. I enjoy transform ideas into compelling digital experiences. My passion for web design drives me to create functional and visually striking solutions. I'm looking for new challenges and opportunities to grow in the exciting world of web design and development ✨.
 
